@@ -1,6 +1,6 @@
 {
-  "name": "@di/requester",
-  "version": "0.0.1",
+  "name": "@di_yes/requester",
+  "version": "0.1.1",
   "type": "module",
   "description": "A type-safe async requester utility with custom error validation",
   "main": "dist/index.js",
